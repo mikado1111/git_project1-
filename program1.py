@@ -4,6 +4,7 @@ def main():
     print("We need more prints")
     print('Again')
     print('UFO came and added this line')
+    a = 5
 
 
 if __name__ == '__main__':
